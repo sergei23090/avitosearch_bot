@@ -2,7 +2,7 @@
 Телеграм бот для мониторинга обьявлений на авито
 Бот avitosearch реализован на языке C#.
 Для того, чтобы начать пользоваться ботом необходимо создать фильтр для поиска.
-![image alt] (https://github.com/sergei23090/avitosearch_bot/blob/master/15b981a3-1f4c-47b3-bff1-bd5522df41c6.jpg)
+![image alt](https://github.com/sergei23090/avitosearch_bot/blob/master/15b981a3-1f4c-47b3-bff1-bd5522df41c6.jpg)
 Вводим параметры поиска на сайте avito и формируем ссылку на запрос
  
 Вставляем ссылку в бота
